@@ -1,0 +1,9 @@
+---
+title: "Golang 泛型 Proposal(翻译)
+date: 2023-10-28
+---
+
+
+
+Ref:
+https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md
